@@ -1,2 +1,9 @@
-# learning-resources
-documentation containing references to helpful learning resources
+# Learning Resources
+A list of helpful learning resources
+
+[Bitcoin](./bitcoin)
+
+[Ethereum](./ethereum)
+
+[EOS](./eos)
+
